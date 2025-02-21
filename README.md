@@ -1,1 +1,1 @@
-# AAI-530-IoT-FinalProject
+# Room Occupancy and Temperature Estimation
