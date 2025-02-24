@@ -7,7 +7,7 @@ We designed a theoretical IoT system based on the chosen dataset. The design fea
 ![alt text](https://github.com/apmalinsky/AAI-530-IoT-FinalProject/blob/main/IoTSystemDesignDiagram.jpg)
 
 # Tableau Public Dashboard Visualization
-To simulate our IoT system design with real-time visualizations, we built a Tableau Public [dashboard](https://public.tableau.com/app/profile/alejandro.marchini/viz/AAI-530-Grp8/Dashboard1).
+To simulate our IoT system design with real-time visualizations, we built a Tableau Public [dashboard](https://public.tableau.com/app/profile/alejandro.marchini/viz/AAI-530-Grp8/Dashboard1). Our dashboard features historical data graphs for room temperature and occupancy, going back 6 hours. Both graphs also include predictive lines for 30 minutes into the future. The temperature graph shows a threshold at which a fan will turn on when the temperature gets too high. The predictive line visually shows if the fan is likely to turn off in the next 30 minutes. Status tiles show the room’s current temperature, the status of the fan (on/off), and the proportion of time the fan was running in the last 6 hours. For room occupancy, status tiles show the current occupancy, and a prediction of the time until the next vacancy.
 
 ![alt text](https://github.com/apmalinsky/AAI-530-IoT-FinalProject/blob/main/TableauDashboardVisual.png)
 
